@@ -1,7 +1,7 @@
 # dio_powerbi_desafio-bootcamp
 Desafio de Projeto de Power BI - Bootcamp Ciência de Dados com Python
 
-Todas as etapas foram realizadas no proprio Power Query, com excessão da contabilização de horas dos projetos
+Todas as etapas foram realizadas no proprio Power Query, com excessão da contabilização de horas dos projetos.
 
 ## *Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir*
 
